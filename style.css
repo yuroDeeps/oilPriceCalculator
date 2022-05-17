@@ -1,0 +1,57 @@
+body {
+  background-color: bisque;
+}
+
+label {
+  padding: 5px;
+}
+
+input[type="number"] {
+  border: 1px solid;
+  width: 4em;
+}
+
+input[type="button"] {
+  border: 1px solid;
+}
+
+#station {
+  height: auto;
+  max-height: 20em;
+}
+
+#wybor {
+  display: block;
+  text-align: left;
+  margin-left: 40%;
+  padding: 10px;
+}
+
+#result {
+  border: 0;
+  width: 4em;
+}
+
+#form {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 0px;
+  text-align: center;
+}
+
+.content {
+  margin-top: 150px;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: gray;
+}
+
+#result_element {
+  padding-top: 10px;
+}
